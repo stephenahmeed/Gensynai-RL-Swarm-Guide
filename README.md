@@ -1,5 +1,3 @@
-# Gensynai-RL-Swarm-Guide
-
 #  Gensyn-ai-RL-Swarm Guide (Mac/Linux) 
 
 </div>
