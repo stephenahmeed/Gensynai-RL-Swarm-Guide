@@ -1,12 +1,5 @@
 # Gensynai-RL-Swarm-Guide
 
-Sure! Here's the **copy-paste friendly** version of your `README.md` that you can drop straight into your repo. No extra formatting or markdown preview needed—just raw text:
-
----
-
-```
-<div align="center">
-
 #  Gensyn-ai-RL-Swarm Guide (Mac/Linux) 
 
 </div>
