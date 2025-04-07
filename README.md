@@ -21,7 +21,7 @@ Sure! Here's the **copy-paste friendly** version of your `README.md` that you ca
 
 Start by accessing your VPS:
 
-```
+```bash
 ssh username@your_server_ip
 ```
 
